@@ -34,4 +34,3 @@ using System;
 	Console.WriteLine(a[0][0][0]);//element
 	}
 }	
-
